@@ -38,3 +38,5 @@ Brightstar Catalog - database.json
 1. [scipy] - package for scientific computing.
 2. [numpy] - package for numeric computing.
 3. [sklearn] - package for machine learning algorithms.
+
+Project inspired by: https://github.com/kfrancischen/Constellation-clustering
